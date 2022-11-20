@@ -5,6 +5,7 @@ public class Prabhu extends SivajiDetails{
 	public void propertyDetails() {
 
 		System.out.println("My name is Prabhu - Property value is 100000 USD");
+		System.out.println("My branch is Anusha");
 	}
 
 	
