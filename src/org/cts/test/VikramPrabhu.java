@@ -4,6 +4,8 @@ public class VikramPrabhu extends Prabhu {
 	
 	public void propertyInfor() {
 		System.out.println("My name is vikram prabhu - property value is 30000 USD");
+		System.out.println("Jenith Branch code");
+
 	}
 
 	public static void main(String[] args) {
